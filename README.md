@@ -1,1 +1,3 @@
-# front1-WIKI
+<center>Wiki departamental</center>
+
+<center>Equipo 1 frontend</center>
